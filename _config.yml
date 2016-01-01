@@ -2,6 +2,7 @@ name: SocialRub
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.22804
+title: SocialRub
 cta:
   domain: null
   bucket: null
