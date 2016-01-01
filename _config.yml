@@ -1,7 +1,7 @@
 name: SocialRub
 favicon: null
-layout_spectrum: 0.09764641127549112
-typography_spectrum: 0.44436869234777987
+layout_spectrum: 1
+typography_spectrum: 0.22804
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.9354653649497777
+    - '#ffffff'
+    - '#139914'
+    - '#797979'
+    - '#d9d9d9'
+    - '#b4b4b4'
+  brandStrength: 1
   lightness: 0.6989975238684565
   saturation: 0.9026888245716691
   rhythmicContrast: 0.8563550990074873
